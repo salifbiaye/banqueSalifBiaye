@@ -1,0 +1,11 @@
+C:\Users\DELL\RiderProjectsue\banquesalifBiaye\banquesalifBiaye\bin\Debug\net10.0\banquesalifBiaye.deps.json
+C:\Users\DELL\RiderProjectsue\banquesalifBiaye\banquesalifBiaye\bin\Debug\net10.0\banquesalifBiaye.dll
+C:\Users\DELL\RiderProjectsue\banquesalifBiaye\banquesalifBiaye\bin\Debug\net10.0\banquesalifBiaye.pdb
+C:\Users\DELL\RiderProjectsue\banquesalifBiaye\banquesalifBiaye\obj\Debug\net10.0\banquesalifBiaye.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\RiderProjectsue\banquesalifBiaye\banquesalifBiaye\obj\Debug\net10.0\banquesalifBiaye.AssemblyInfoInputs.cache
+C:\Users\DELL\RiderProjectsue\banquesalifBiaye\banquesalifBiaye\obj\Debug\net10.0\banquesalifBiaye.AssemblyInfo.cs
+C:\Users\DELL\RiderProjectsue\banquesalifBiaye\banquesalifBiaye\obj\Debug\net10.0\banquesalifBiaye.csproj.CoreCompileInputs.cache
+C:\Users\DELL\RiderProjectsue\banquesalifBiaye\banquesalifBiaye\obj\Debug\net10.0\banquesalifBiaye.dll
+C:\Users\DELL\RiderProjectsue\banquesalifBiaye\banquesalifBiaye\obj\Debug\net10.0\refint\banquesalifBiaye.dll
+C:\Users\DELL\RiderProjectsue\banquesalifBiaye\banquesalifBiaye\obj\Debug\net10.0\banquesalifBiaye.pdb
+C:\Users\DELL\RiderProjectsue\banquesalifBiaye\banquesalifBiaye\obj\Debug\net10.0\ref\banquesalifBiaye.dll
